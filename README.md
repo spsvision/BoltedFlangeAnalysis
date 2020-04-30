@@ -1,6 +1,4 @@
 # Bolted Flange Analysis
-Thermal and Structural Analysis of a Bolted Flange in Ansys
-
 The following represents a combined structural and thermal analysis of a bolted flange setup over a 3 second window. The assembly consists of a two steel rocket pieces held together by fasteners. 
 The bolt and nut are stainless steel, and said bolt is preloaded to 10,320 N. While initially at an ambient 21 C (70 F), temperature quickly rises partially simulating a rocket launch.
 Evidently, after two seconds, the two flanges experience a sudden verticle reactant force of over 4000 N. And at three seconds, the entire system is subject to temperatures over 370 C (699 F) 
