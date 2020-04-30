@@ -16,9 +16,9 @@ The modes of the aluminum wing are:
 | 3 | 371 | 4448.2 |
 
 ### Equivalent Stress (Von-mises)
-![](boltedFlange_files/user_files/equiv_stress.PNG)
+![](boltedFlange_files/user_files/equiv_stress.png)
 ### Gap between all parts after three second simulation
-![](boltedFlange_files/user_files/end_of_sim_gap.PNG)
+![](boltedFlange_files/user_files/end_of_sim_gap.png)
 
 
 ## Built With
