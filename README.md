@@ -5,7 +5,7 @@ The following represents a combined structural and thermal analysis of a bolted 
 The bolt and nut are stainless steel, and said bolt is preloaded to 10,320 N. While initially at an ambient 21 C (70 F), temperature quickly rises partially simulating a rocket launch.
 Evidently, after two seconds, the two flanges experience a sudden verticle reactant force of over 4000 N. And at three seconds, the entire system is subject to temperatures over 370 C (699 F) 
 
-![](boltedFlange_files/user_files/simulating_contact.PNG)
+![](boltedFlange_files/user_files/simulating_contact.png)
 
 The modes of the aluminum wing are:
 | Time (s) | Temperature (C) | Force (N) |
